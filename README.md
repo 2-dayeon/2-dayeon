@@ -14,6 +14,7 @@
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2-dayeon&show_icons=true&theme=calm&hide_border=true&include_all_commits=true)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=2-dayeon&layout=compact&theme=calm&hide_border=true)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
 

@@ -12,5 +12,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Language Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2-dayeon&show_icons=true&theme=calm&hide_border=true&include_all_commits=true)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
 

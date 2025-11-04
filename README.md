@@ -20,7 +20,3 @@
     <img src="https://render.gitanimals.org/farms/2-dayeon" width="600" height="300"/>
   </a>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2-dayeon&label=Profile%20views&color=BDBDC8&style=for-the-badge"/>
-</p>

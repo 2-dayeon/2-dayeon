@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Language Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </p>
+<a href="https://www.gitanimals.org/en_US/@2-dayeon?utm_medium=image&utm_source=2-dayeon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/2-dayeon"
+  width="600"
+  height="300"
+/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
 
